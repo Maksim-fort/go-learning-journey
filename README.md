@@ -6,3 +6,4 @@ My Go programming learning journey - daily lessons
 
 ### Basics
 - [X] Day 1: Arrays and For Loops - finding max element
+- [X] Day 2: Functions - division with remainder
