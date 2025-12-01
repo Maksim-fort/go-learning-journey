@@ -9,3 +9,4 @@ My Go programming learning journey - daily lessons
 - [X] Day 2: Functions - division with remainder
 - [X] Day 3: Recursion - factorial calculation
 - [X] Day 4: Slices and higher-order functions
+- [X] Day 5: Finding minimum element in slice
