@@ -10,3 +10,4 @@ My Go programming learning journey - daily lessons
 - [X] Day 3: Recursion - factorial calculation
 - [X] Day 4: Slices and higher-order functions
 - [X] Day 5: Finding minimum element in slice
+- [X] Day 6: Filter function with predicates
