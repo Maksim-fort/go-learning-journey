@@ -14,3 +14,4 @@ My Go programming learning journey - daily lessons
 - [X] Day 7: User input and array sum calculation
 - [X] Day 8: Filter even numbers from array
 - [X] Day 9: Reverse array - multiple methods
+- [X] Day 10: Slice sum functions - 10 days milestone!
