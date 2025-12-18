@@ -12,3 +12,4 @@ My Go programming learning journey - daily lessons
 - [X] Day 5: Finding minimum element in slice
 - [X] Day 6: Filter function with predicates
 - [X] Day 7: User input and array sum calculation
+- [X] Day 8: Filter even numbers from array
