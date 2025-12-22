@@ -21,3 +21,5 @@ My Go programming learning journey - daily lessons
 - [X] Day 14: Remove element from slice
 - [X] Day 15: Merge three slices function
 - [X] Day 16: Zigzag sort algorithm
+- [X] Day 17: Find intersection with maps
+- [X] Day 18: Merge maps with summation
