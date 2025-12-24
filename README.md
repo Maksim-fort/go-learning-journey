@@ -23,3 +23,9 @@ My Go programming learning journey - daily lessons
 - [X] Day 16: Zigzag sort algorithm
 - [X] Day 17: Find intersection with maps
 - [X] Day 18: Merge maps with summation
+- [X] Day 19: Double even values in map
+- [X] Day 20: User roles system with maps
+- [X] Day 21: Intersect maps with summation
+- [X] Day 22: Deep copy map with recursion
+- [X] Day 23: Word counter with map
+- [X] Day 24: Merge people maps with summation
