@@ -29,3 +29,7 @@ My Go programming learning journey - daily lessons
 - [X] Day 22: Deep copy map with recursion
 - [X] Day 23: Word counter with map
 - [X] Day 24: Merge people maps with summation
+- [X] Day 25: Structs and methods
+- [X] Day 26: Nested structs
+- [X] Day 27: Struct methods with filtering
+- [X] Day 28: IsEmpty method for struct
