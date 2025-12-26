@@ -33,3 +33,6 @@ My Go programming learning journey - daily lessons
 - [X] Day 26: Nested structs
 - [X] Day 27: Struct methods with filtering
 - [X] Day 28: IsEmpty method for struct
+- [X] Day 29: Struct sorting with sort.Slice
+- [X] Day 30: Pointers tutorial
+- [X] Day 31: Pointer swap function
