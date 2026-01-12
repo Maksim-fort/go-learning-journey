@@ -36,3 +36,6 @@ My Go programming learning journey - daily lessons
 - [X] Day 29: Struct sorting with sort.Slice
 - [X] Day 30: Pointers tutorial
 - [X] Day 31: Pointer swap function
+- [X] Day 32: new() pointer creation
+- [X] Day 33: Pointer receiver methods
+- [X] Day 34: Pointer comparison function
