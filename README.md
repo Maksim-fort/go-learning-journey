@@ -39,3 +39,6 @@ My Go programming learning journey - daily lessons
 - [X] Day 32: new() pointer creation
 - [X] Day 33: Pointer receiver methods
 - [X] Day 34: Pointer comparison function
+- [X] Day 35: Linked list node structure
+- [X] Day 36: Letter frequency counter
+- [X] Day 37: Interfaces with geometric shapes
