@@ -41,4 +41,5 @@ My Go programming learning journey - daily lessons
 - [X] Day 34: Pointer comparison function
 - [X] Day 35: Linked list node structure
 - [X] Day 36: Letter frequency counter
-- [X] Day 37: Interfaces with geometric shapes
+- [X] Day 37: Goroutines basics
+- [X] Day 38: Goroutines example with multiple threads
