@@ -43,3 +43,4 @@ My Go programming learning journey - daily lessons
 - [X] Day 36: Letter frequency counter
 - [X] Day 37: Goroutines basics
 - [X] Day 38: Goroutines example with multiple threads
+- [X] Day 39: WaitGroup for goroutine synchronization
