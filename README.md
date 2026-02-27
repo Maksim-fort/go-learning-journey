@@ -45,3 +45,4 @@ My Go programming learning journey - daily lessons
 - [X] Day 38: Goroutines example with multiple threads
 - [X] Day 39: WaitGroup for goroutine synchronization
 - [X] Day 40: Worker pool pattern
+- [X] Day 41: Context with timeout
